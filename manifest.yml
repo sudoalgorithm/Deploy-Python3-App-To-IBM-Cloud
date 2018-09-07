@@ -1,0 +1,5 @@
+---
+applications:
+- name: Python3App
+  memory: 256M
+  buildpack: python_buildpack
